@@ -13,7 +13,6 @@ A comprehensive web application built with the MEVN stack (MongoDB, Express.js, 
 # 1. Clone the Repository
 ````
 git clone https://github.com/Salwa-26/restAPI-evaluator.git
-cd restAPI-evaluator
 ````
 # 2. Backend Setup
 Navigate to backend directory
